@@ -20,6 +20,3 @@ Google Firebase<br>
 Heroku<br>
 Github Link for Disease prediction API -https://github.com/AnmoljeetsinghWadali/disease-Prediction-APi
 <br>
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
