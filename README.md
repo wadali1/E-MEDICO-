@@ -22,4 +22,4 @@ Github Link for Disease prediction API -https://github.com/AnmoljeetsinghWadali/
 <br>
  ## APP DEMONSRATION VIDEO:
 <br>
-https://drive.google.com/file/d/1D_1XwFuBk8-KlkClVJjO2ROsasnFc-zd/view?usp=sharing
+## link to app demo --- https://tinyurl.com/e-medico
